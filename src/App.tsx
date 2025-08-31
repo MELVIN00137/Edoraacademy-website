@@ -209,7 +209,7 @@ const App: React.FC = () => {
 
   const faqs = [
     {
-      question: "What subjects or skills does Edvora Academy offer?",
+      question: "What subjects or skills does Edora Academy offer?",
       answer: "We offer live weekly classes in Abacus, Vedic Math, Piano, Guitar, and academic subjects like Physics and Chemistry. We can also arrange sessions for additional skills such as languages, programming, or other areas based on student interest."
     },
     {
